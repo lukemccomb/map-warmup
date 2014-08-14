@@ -21,3 +21,23 @@
     color: #f0f0f0;
     background-color: black;
 }
+
+#ca, #co, #ct, #de, #dc, #fl, #il, #ia, #ks, #me, #md, #ma, #nh, #nj, #ny, #or, #pa, #ri, #ut, #va, #vt, #wy {
+    color: purple;
+}
+
+#ct, #md {
+    color: teal;
+}
+
+#ak {
+   mask: url('http://bunow.com/wp-content/uploads/2013/10/alaska-state-flag.jpg');
+}
+
+#ak {
+    background:url('http://bunow.com/wp-content/uploads/2013/10/alaska-state-flag.jpg');
+    background-size: 10% 10%;
+    background-repeat: repeat;
+    -webkit-background-clip:text;
+    -webkit-text-fill-color:transparent;
+}
