@@ -30,13 +30,17 @@
     color: teal;
 }
 
+#nv {
+    color: yellow;
+}
+
 #ak {
    mask: url('http://bunow.com/wp-content/uploads/2013/10/alaska-state-flag.jpg');
 }
 
 #ak {
     background:url('http://bunow.com/wp-content/uploads/2013/10/alaska-state-flag.jpg');
-    background-size: 10% 10%;
+    background-size: 50% 50%;
     background-repeat: repeat;
     -webkit-background-clip:text;
     -webkit-text-fill-color:transparent;
